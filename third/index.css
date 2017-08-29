@@ -1,0 +1,34 @@
+.header {
+  width: 100%;
+  padding: 25px;
+  background: #D8D8D8;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  background: #4A90E2;
+}
+.section-one {
+  width: 100%;
+  padding: 50px;
+}
+.section-two {
+  width: 100%;
+  height: 100px;
+  background: #4A90E2;
+}
+.section-three {
+  width: 100%;
+  height: 100px;
+  background: #50E3C2;
+}
+.section-four {
+  width: 100%;
+  height: 100px;
+  background: #B8E986;
+}
+.footer {
+  width: 100%;
+  height: 100px;
+  background: #F8E71C;
+}
